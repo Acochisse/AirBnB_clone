@@ -1,0 +1,13 @@
+/* footer.css 3-index.html */
+
+footer {
+    background-color: #FFF;
+    width: 100%;
+    height: 60px;
+    position: absolute;
+    bottom: 0;
+    align-items: center;
+    display: flex;
+    justify-items: center;
+    border-top: solid 1px #CCC;
+}

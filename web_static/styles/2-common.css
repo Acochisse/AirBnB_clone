@@ -1,0 +1,9 @@
+/* common body styling - css styling */
+ body {
+	  margin: 0px;
+	  padding: 0px;
+ }
+
+ p {
+     margin: auto;
+ }

@@ -1,0 +1,17 @@
+/* 3-index.html 3-common.css */
+
+/* body styling */
+body {
+    margin: 0;
+    padding: 0;
+    color: #48484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    
+}
+
+
+/* paragraph styling */
+p {
+    margin: auto;
+}
